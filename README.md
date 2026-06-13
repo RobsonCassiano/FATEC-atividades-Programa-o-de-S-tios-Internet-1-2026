@@ -103,7 +103,7 @@ P2/
 
 ## Deploy
 
-GitHub Pages: []
+GitHub Pages: [ https://robsoncassiano.github.io/FATEC-atividades-Programa-o-de-S-tios-Internet-1-2026/]
 
 ## Video Pitch
 
